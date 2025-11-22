@@ -1,0 +1,7 @@
+{
+  "name": "DB01",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
